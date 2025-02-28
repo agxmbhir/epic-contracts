@@ -1,4 +1,4 @@
 cache/
 artifacts/
 node_modules/
-attestation_temp/
+attestation_temp/.env
